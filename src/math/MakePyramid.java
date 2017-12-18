@@ -14,6 +14,17 @@ public class MakePyramid {
 
         //Start Here
 
+        int x = 6;
+        for(int i=0;i<x;i++) {
+            for(int j=0;j<x-i;j++) {
+                System.out.print(" ");
+            }
+            for(int k=0;k<=i;k++) {
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
+    }
+
 
          }
-  }

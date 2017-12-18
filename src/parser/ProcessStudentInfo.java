@@ -1,7 +1,6 @@
 package parser;
 
 import org.xml.sax.SAXException;
-import org.xml.sax.XMLReader;
 
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;
@@ -40,7 +39,7 @@ public class ProcessStudentInfo {
 				String tag = "id";
 
 				//Declare a Map with List<String> into it.
-				Map<String,List<String>> list = new LinkedHashMap<String,List<String>>();
+				Map<String, List<Student>> list = new LinkedHashMap<>();
 				
 				/*Declare 2 ArrayList with Student data type to store Selenium student into one of the ArrayList and
 				  Qtp student into another ArrayList. */
@@ -56,13 +55,18 @@ public class ProcessStudentInfo {
 				seleniumStudents = xmlReader.parseData(tag, pathSelenium);
 
 				//Parse Data using parseData method and then store data into Qtp ArrayList.
-				
+				qtpStudents=xmlReader.parseData(tag, pathQtp);
+
 				//add Selenium ArrayList data into map.
-			
+				list.put("selinium student", seleniumStudents);
+
 				//add Qtp ArrayList data into map.
-		
+				list.put("qtp students", qtpStudents);
 		      	
 				//Retrieve map data and display output.
+				for(Map.Entry<String, List<Student>>$:list.entrySet()){
+					System.out.println($);
+				}
 
 				//Store Qtp data into Qtp table in Database
 

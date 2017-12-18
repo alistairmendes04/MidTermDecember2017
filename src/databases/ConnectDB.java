@@ -149,11 +149,11 @@ public class ConnectDB {
         return data;
     }
 
-    public void InsertDataFromArrayListToMySql(List<Object> list,String tableName, String columnName)
+    public void InsertDataFromArrayListToMySql(ArrayList<Object> arraylist,String tableName, String columnName)
     {
         try {
             connectToMySql();
-            for(Object st:list){
+            for(Object st:arraylist){
                 ps = connect.prepareStatement("INSERT INTO "+tableName+" ( "+columnName+" ) VALUES(?)");
                 ps.setObject(1,st);
                 ps.executeUpdate();

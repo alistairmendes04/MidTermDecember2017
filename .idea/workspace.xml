@@ -1,57 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15e60fdd-90b9-4062-96b0-eeea918c5382" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/design/EmployeeAbstract.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/algorithm/Sort.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/algorithm/Sort.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/databases/ConnectDB.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/databases/ConnectDB.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/datastructure/DataReader.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/datastructure/DataReader.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/datastructure/UseArrayList.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/datastructure/UseArrayList.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/datastructure/UseMap.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/datastructure/UseMap.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/EmployeeInfo$1.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/EmployeeInfo$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/EmployeeInfo$DateConversion.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/EmployeeInfo$DateConversion.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/EmployeeInfo.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/EmployeeInfo.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/Factorial.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/Factorial.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/FindMissingNumber.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/FindMissingNumber.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/LowestNumber.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/LowestNumber.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/MakePyramid.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/MakePyramid.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/Pattern.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/Pattern.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/PrimeNumber.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/PrimeNumber.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/parser/ProcessStudentInfo.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/parser/ProcessStudentInfo.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/parser/Student.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/parser/Student.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/parser/XmlReader.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/parser/XmlReader.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/Anagram.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/Anagram.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/DuplicateWord.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/DuplicateWord.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/Palindrome.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/Palindrome.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/Permutation.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/Permutation.class" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/Sort.java" afterPath="$PROJECT_DIR$/src/algorithm/Sort.java" />
-      <change beforePath="$PROJECT_DIR$/src/databases/ConnectDB.java" afterPath="$PROJECT_DIR$/src/databases/ConnectDB.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/DataReader.java" afterPath="$PROJECT_DIR$/src/datastructure/DataReader.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" afterPath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/UseMap.java" afterPath="$PROJECT_DIR$/src/datastructure/UseMap.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/UseQueue.java" afterPath="$PROJECT_DIR$/src/datastructure/UseQueue.java" />
-      <change beforePath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" afterPath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" />
-      <change beforePath="$PROJECT_DIR$/src/definition/data-structure-questions" afterPath="$PROJECT_DIR$/src/definition/data-structure-questions" />
-      <change beforePath="$PROJECT_DIR$/src/design/Employee.java" afterPath="$PROJECT_DIR$/src/design/Employee.java" />
-      <change beforePath="$PROJECT_DIR$/src/design/EmployeeInfo.java" afterPath="$PROJECT_DIR$/src/design/EmployeeInfo.java" />
-      <change beforePath="$PROJECT_DIR$/src/design/FortuneEmployee.java" afterPath="$PROJECT_DIR$/src/design/FortuneEmployee.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/Factorial.java" afterPath="$PROJECT_DIR$/src/math/Factorial.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/Fibonacci.java" afterPath="$PROJECT_DIR$/src/math/Fibonacci.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/FindMissingNumber.java" afterPath="$PROJECT_DIR$/src/math/FindMissingNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/LowestNumber.java" afterPath="$PROJECT_DIR$/src/math/LowestNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/MakePyramid.java" afterPath="$PROJECT_DIR$/src/math/MakePyramid.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/Pattern.java" afterPath="$PROJECT_DIR$/src/math/Pattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/PrimeNumber.java" afterPath="$PROJECT_DIR$/src/math/PrimeNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/parser/ProcessStudentInfo.java" afterPath="$PROJECT_DIR$/src/parser/ProcessStudentInfo.java" />
-      <change beforePath="$PROJECT_DIR$/src/parser/Student.java" afterPath="$PROJECT_DIR$/src/parser/Student.java" />
-      <change beforePath="$PROJECT_DIR$/src/parser/XmlReader.java" afterPath="$PROJECT_DIR$/src/parser/XmlReader.java" />
-      <change beforePath="$PROJECT_DIR$/src/problems/Anagram.java" afterPath="$PROJECT_DIR$/src/problems/Anagram.java" />
-      <change beforePath="$PROJECT_DIR$/src/problems/DuplicateWord.java" afterPath="$PROJECT_DIR$/src/problems/DuplicateWord.java" />
-      <change beforePath="$PROJECT_DIR$/src/problems/Palindrome.java" afterPath="$PROJECT_DIR$/src/problems/Palindrome.java" />
-      <change beforePath="$PROJECT_DIR$/src/problems/Permutation.java" afterPath="$PROJECT_DIR$/src/problems/Permutation.java" />
-    </list>
+    <list default="true" id="15e60fdd-90b9-4062-96b0-eeea918c5382" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
